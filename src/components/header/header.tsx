@@ -19,7 +19,7 @@ export default component$(() => {
       </div>
       <ul>
         <li>
-          <a href="/gallery">Framer Image Gallery</a>
+          <a href="/motion-one">Motion One Example</a>
         </li>
         <li>
           <a

@@ -47,6 +47,7 @@
   },
   "dependencies": {
     "framer-motion": "^10.3.2",
+    "motion": "^10.15.5",
     "popmotion": "^11.0.5"
   }
 }
