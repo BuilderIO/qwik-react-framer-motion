@@ -1,3 +1,5 @@
+The code repo for ["Building Framer Motion Animations Inside a Qwik Application"](https://builder.io/blog/framer-motion-qwik)
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
